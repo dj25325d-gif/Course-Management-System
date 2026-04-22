@@ -15,11 +15,11 @@
 ## 📌 Table of Contents
 1. [Overview](#-overview)
 2. [Why This Project?](#-why-this-project)
-3. [Database Architecture & ERD](#-database-architecture--erd)
+3. [Database Architecture & ERD](#-database-architecture-erd)
 4. [SQL Skills Demonstrated](#-sql-skills-demonstrated)
 5. [Visual Tour (Screenshots)](#-visual-tour-screenshots)
 6. [Project Structure](#-project-structure)
-7. [Getting Started / Setup](#-getting-started--setup)
+7. [Getting Started / Setup](#-getting-started-setup)
 8. [Author](#-author)
 
 ---
