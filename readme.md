@@ -13,23 +13,25 @@
 ---
 
 ## 📌 Table of Contents
-1. [Overview](#-overview)
-2. [Why This Project?](#-why-this-project)
-3. [Database Architecture & ERD](#-database-architecture-erd)
-4. [SQL Skills Demonstrated](#-sql-skills-demonstrated)
-5. [Visual Tour (Screenshots)](#-visual-tour-screenshots)
-6. [Project Structure](#-project-structure)
-7. [Getting Started / Setup](#-getting-started-setup)
-8. [Author](#-author)
+1. [Overview](#overview)
+2. [Why This Project?](#why-this-project)
+3. [Database Architecture & ERD](#architecture)
+4. [SQL Skills Demonstrated](#sql-skills)
+5. [Visual Tour (Screenshots)](#visual-tour)
+6. [Project Structure](#project-structure)
+7. [Getting Started / Setup](#getting-started)
+8. [Author](#author)
 
 ---
 
+<a id="overview"></a>
 ## 📖 Overview
 
 The **Course Management System** is a relational database designed to handle the core operations of a university environment. It tracks student records, department details, course credits, instructor assignments, and student-course enrollments. 
 
 This project was built from the ground up to practice and showcase database design, writing efficient SQL queries, and answering realistic business questions using data.
 
+<a id="why-this-project"></a>
 ## ✨ Why This Project?
 
 For recruiters and hiring managers, this project highlights my ability to:
@@ -39,6 +41,7 @@ For recruiters and hiring managers, this project highlights my ability to:
 
 ---
 
+<a id="architecture"></a>
 ## 🏗️ Database Architecture & ERD
 
 Below is the Entity-Relationship Diagram representing how the database is structured. It utilizes a normalized approach to connect students, courses, instructors, and departments.
@@ -86,6 +89,7 @@ erDiagram
 
 ---
 
+<a id="sql-skills"></a>
 ## 💡 SQL Skills Demonstrated
 
 Through 16 distinct query challenges, this project showcases a progression from basic to advanced SQL:
@@ -100,6 +104,7 @@ Through 16 distinct query challenges, this project showcases a progression from 
 
 ---
 
+<a id="visual-tour"></a>
 ## 📸 Visual Tour (Screenshots)
 
 Below is a walkthrough of the SQL execution, showing the database in action.
@@ -136,11 +141,12 @@ _Demonstrating `LEFT JOIN` for inclusive data retrieval and identifying highly p
 _Extracting dates, concatenating strings, generating running totals with Window Functions, and applying `CASE` statements to categorize student seniority._
 <p align="center"> 
   <img src="screenshots/q14-15.png" width="45%" alt="Window Functions"> 
-  <img src="screenshots/q16.png" width="45%" alt="Case Statements"> 
+  <img src="screenshots/q16(1).png" width="45%" alt="Case Statements"> 
 </p>
 
 ---
 
+<a id="project-structure"></a>
 ## 📁 Project Structure
 
 ```text
@@ -163,6 +169,7 @@ course-management-system/
 
 ---
 
+<a id="getting-started"></a>
 ## ⚙️ Getting Started / Setup
 
 To run this project locally on your machine, follow these simple steps:
@@ -185,6 +192,7 @@ To run this project locally on your machine, follow these simple steps:
 
 ---
 
+<a id="author"></a>
 ## 👤 Author
 
 **Dushyant V** _Passionate about SQL, Data Modeling, and Backend Systems._
