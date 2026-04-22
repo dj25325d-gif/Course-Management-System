@@ -141,7 +141,7 @@ _Demonstrating `LEFT JOIN` for inclusive data retrieval and identifying highly p
 _Extracting dates, concatenating strings, generating running totals with Window Functions, and applying `CASE` statements to categorize student seniority._
 <p align="center"> 
   <img src="screenshots/q14-15.png" width="45%" alt="Window Functions"> 
-  <img src="screenshots/q16(1).png" width="45%" alt="Case Statements"> 
+  <img src="screenshots/q16.png" width="45%" alt="Case Statements"> 
 </p>
 
 ---
